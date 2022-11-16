@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello! I made this website following the Ruby on Rails guide.
 
-Things you may want to cover:
+## Preview
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### articles/:id
+![image](https://user-images.githubusercontent.com/83680466/202200810-f85157da-b111-4fd8-ae1d-2a7292d708a0.png)
